@@ -1,0 +1,6 @@
+.wp-list-table #_email{width:25%}
+.wp-list-table #_social_facebook,.wp-list-table #_social_twitter,.wp-list-table #_social_google_plus{width:30px}
+.wp-list-table #_thumbnail_id{width:80px}
+.wp-list-table #the-list .column-_thumbnail_id{text-align:center !important;overflow:hidden;padding:1%}
+.wp-list-table #title{width:25%}
+.wp-list-table .social_meta_icon{text-align:center !important}
